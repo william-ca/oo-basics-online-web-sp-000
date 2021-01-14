@@ -11,4 +11,3 @@ class Book
   end
 
 end
-
